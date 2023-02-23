@@ -3,3 +3,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroleLf)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaroleLf&show_icons=true&locale=en&layout=compact"/>
