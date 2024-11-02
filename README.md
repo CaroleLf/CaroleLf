@@ -1,6 +1,6 @@
 <h1 align="center">Hey !</h1>
 
-<p align="center">I'm <b>Carole Le Flohic</b>, I am in my second year of computer science at Bordeaux IUT  !</p>
+<p align="center">I'm <b>Carole Le Flohic</b>, I am in my second year of computer science at ENSEIRB-MATMECA  !</p>
 
 ## 👤 About me
 - 📝 I'm studying at IUT of Bordeaux
