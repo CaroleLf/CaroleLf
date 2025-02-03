@@ -3,7 +3,7 @@
 <p align="center">I'm <b>Carole Le Flohic</b>, I am in my second year of computer science at ENSEIRB-MATMECA  !</p>
 
 ## 👤 About me
-- 📝 I'm studying at IUT of Bordeaux
+- 📝 I'm studying at ENSEIRB-MATMECA
 - 👩‍💻 I’m currently learning : [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 
